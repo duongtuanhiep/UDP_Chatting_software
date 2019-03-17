@@ -12,7 +12,7 @@ This program requires 2 devices that can run windows visual studio with C++ comp
 ### List of project files
 ```
 README.md 	:this file
-capture.docx	:Traces of the program when its running, including wireshark captured, window netstat command and test run 
+running trouble shoot.docx	:Traces of the program when its running, including wireshark captured, window netstat command and test run 
 UDPclient.ccp	:Client program
 UDPserver.ccp	:Server program
 ```
