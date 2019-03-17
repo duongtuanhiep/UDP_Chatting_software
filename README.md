@@ -42,5 +42,5 @@ Start by running the server application and then start the client server.
 ## Deployment Note
 The pprogram can run by using debugging mode in visual studio
 
-##Authors
+## Authors
 Duong Tuan Hiep
